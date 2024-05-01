@@ -1,0 +1,9 @@
+.activeStyle {
+    color: 'green';
+    background-color: 'white',
+}
+
+.defaultStyle {
+    color: 'black';
+    background-color: 'white',
+}
