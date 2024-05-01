@@ -23,7 +23,7 @@ const SingleUserPage = () => {
 
     useEffect(() => {
         fetchUser();
-    }, []);
+    }, [params.id]);
 
   return (
     <div>
